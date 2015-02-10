@@ -10,5 +10,5 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.0'
 end
 
-gem 'active_model_serializers'
+gem 'active_model_serializers', '~> 0.9.3'
 gem 'rack-cors', require: 'rack/cors'
